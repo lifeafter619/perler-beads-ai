@@ -23,6 +23,8 @@
 # misc
 .DS_Store
 *.pem
+ai-optimized-result.jpg
+generated-*.jpg
 
 # debug
 npm-debug.log*
