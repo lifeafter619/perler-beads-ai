@@ -1083,7 +1083,7 @@ export default function Home() {
     if (typeof window !== 'undefined') {
       const currentUrl = window.location.href;
       const currentHostname = window.location.hostname;
-      const targetDomain = 'https://liang.348349.xyz/';
+      const targetDomain = 'https://pindou.619.qzz.io/';
       
       // 排除localhost和127.0.0.1等本地开发环境
       const isLocalhost = currentHostname === 'localhost' || 
